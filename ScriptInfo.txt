@@ -1,0 +1,15 @@
+{{ScriptInfo
+|name= Export Panda3D Format
+|tooltip= Export Makehuman model to Panda3D egg
+|menu= File > Export > Panda3D Format (.egg)
+|usage= Select object to export, choose the precision of vertex to bone membership, and export the model
+|version= 1.0
+|blender= 2.70.0
+|category= Import-Export
+|author= Milan Vontorcik
+|license= GPL
+|note= Addon is mainly intended to export models created in Makehuman
+|exe= io_export_egg.py
+|download= Download url
+|issues= UV is not always correct
+}}
